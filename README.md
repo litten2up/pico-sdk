@@ -1,3 +1,4 @@
+[![picobuild](https://github.com/litten2up/pico-sdk/actions/workflows/main.yml/badge.svg?branch=master)](https://github.com/litten2up/pico-sdk/actions/workflows/main.yml)
 # Raspberry Pi Pico SDK
 
 The Raspberry Pi Pico SDK (henceforth the SDK) provides the headers, libraries and build system
